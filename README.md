@@ -10,6 +10,9 @@ And was presented for the course **Introduction To Sociophysics** of the Nationa
 
 In this work we review the formalism of **statistical mechanics** of **multiplex networks**.
 
+## Abstract
+In this work we give an introduction to the modeling of multiplex networks, first with a multilinear approach and second with a multilink formalism developed by Ginestra Bianconi for multiplex networks with the presence of correlation between types of relationships. Then the formalism for canonical and microcanonical sets of these networks and we calculate the Gibbs Entropy. Finally, an introduction to diffusion in multiplex networks is presented, for this supralaplacian operators are built and an example of the importance of spectral analysis for the study of diffusion dynamics in multiplex networks is given.
+
 ## ¿Why this is important? 
 Multiplex networks are models of network that considered multiple types of relations, this models are important because almost all complex networks are multiplex networks.
 
