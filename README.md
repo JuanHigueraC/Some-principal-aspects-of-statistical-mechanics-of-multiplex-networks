@@ -56,4 +56,5 @@ This formalism based on multilink permit us applied the statistical mechanics ma
 
 ## Maximum Entropy Principle (MaxEnt)
 The Maximum Entropy Principle are a principle of statistical inference, in this we build probability distributions that has some restrictions extracted from our real data and maximizes the Shannon Entropy. The maximization of Shannon Entropy ensure us that the probability distribution are the most random distribution that fulfills the restrictions. In this way MaxEnt principle allow us to build null-hypothesis distributions.
+The application of this principle in multiplex networks are in the pdf of this repository.
 
