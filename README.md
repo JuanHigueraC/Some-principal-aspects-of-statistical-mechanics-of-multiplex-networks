@@ -32,6 +32,17 @@ this treatment assume independence of the different types of relationship, for t
 The pressence of this overlapping make necessary the construction of a more apropiate formalism. The formalism presented here was developed by Ginestra Bianconi in [1].
 First we can define a multilink, multilink its a vector that caracterized the relation between two nodes in all of the relationships of the network,that is:
 
+![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multilink.PNG)
+where M are the number of types of relationships, and the components of the vector take the values 0 or 1 if the two nodes are connected with the specific type of relationship.
+
+This definition allow us to define a multiadyacency matrix
+
+![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multiadyacencia.PNG)
+
+and a multidegree
+
+![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multigrado.PNG)
+
 
 
 
