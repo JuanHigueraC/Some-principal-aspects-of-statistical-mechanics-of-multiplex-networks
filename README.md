@@ -20,6 +20,8 @@ When we characterize the topology of a network, a point of comparison is necessa
 
 ## Formalism of multiplex networks 
 
+### Multilinear approach
+
 The first aproximation of multiplex networks is given for a multilineal treatment, in this treatment we describe mathematicaly the network using a vector of adyacency matrix, one for each type of relationship
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/657ba3a3eec1eb8752ca714aaf9cccce428689b2/Images/adyacencia.PNG)
@@ -35,6 +37,8 @@ To measure the correlation between different types of relationship its possible 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/sobrelapamiento.PNG)
 
 The pressence of this overlapping make necessary the construction of a more apropiate formalism. The formalism presented here was developed by Ginestra Bianconi in [1].
+
+### Multilink approach
 First we can define a multilink, multilink its a vector that caracterized the relation between two nodes in all of the relationships of the network,that is:
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multilink.PNG)
