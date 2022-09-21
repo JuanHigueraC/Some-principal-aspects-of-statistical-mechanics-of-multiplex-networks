@@ -25,9 +25,13 @@ and we can define a vector of degrees, one for each type of relationship
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/grado.PNG)
 
-this treatment assume independence of the different types of relationship, for this reason is unrealistic. To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&Alpha; and &Beta;.
+this treatment assume independence of the different types of relationship, for this reason is unrealistic. To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&alpha; and &beta;.
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/sobrelapamiento.PNG)
+
+The pressence of this overlapping make necessary the construction of a more apropiate formalism. The formalism presented here was developed by Ginestra Bianconi in [1].
+First we can define a multilink, multilink its a vector that caracterized the relation between two nodes in all of the relationships of the network,that is:
+
 
 
 
