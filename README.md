@@ -17,4 +17,5 @@ When we characterize the topology of a network, a point of comparison is necessa
 
 ## Formalism of multiplex networks 
 
+![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/657ba3a3eec1eb8752ca714aaf9cccce428689b2/Images/adyacencia.PNG)
 
