@@ -25,7 +25,7 @@ and we can define a vector of degrees, one for each type of relationship
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/grado.PNG)
 
-this treatment assume independence of the different types of relationship, for this reason is unrealistic. To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations A and B.
+this treatment assume independence of the different types of relationship, for this reason is unrealistic. To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&Alpha; and &Beta;.
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/sobrelapamiento.PNG)
 
