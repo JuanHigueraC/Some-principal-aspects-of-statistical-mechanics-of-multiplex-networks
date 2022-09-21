@@ -25,7 +25,9 @@ and we can define a vector of degrees, one for each type of relationship
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/grado.PNG)
 
-this treatment assume independence of the different types of relationship, for this reason is unrealistic. To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&alpha; and &beta;.
+this treatment assume independence of the different types of relationship, for this reason is unrealistic. 
+
+To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&alpha; and &beta;.
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/sobrelapamiento.PNG)
 
@@ -43,6 +45,8 @@ and a multidegree
 
 ![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multigrado.PNG)
 
+This formalism based on multilink permit us applied the statistical mechanics machinery on multiplex networks with correlated types of relationship.
 
+## Maximum Entropy Principle (MaxEnt)
 
 
