@@ -59,3 +59,27 @@ The Maximum Entropy Principle are a principle of statistical inference, in this 
 
 The application of this principle in multiplex networks are in the pdf of this repository.
 
+## References
+
+[1] BIANCONI, Ginestra. Statistical mechanics of multiplex net-
+works: Entropy and overlap. Physical Review E, 2013, vol. 87,
+no 6, p. 062806.
+
+[2] BATTISTON, Federico; NICOSIA, Vincenzo; LATORA,
+Vito. Structural measures for multiplex networks. Physical
+Review E, 2014, vol. 89, no 3, p. 032804.
+
+[3] LEE, Kyu-Min; MIN, Byungjoon; GOH, Kwang-Il. Towards
+real-world complexity: an introduction to multiplex networks.
+The European Physical Journal B, 2015, vol. 88, no 2, p. 48.
+
+[4] BOCCALETTI, Stefano, et al. The structure and dynamics
+of multilayer networks. Physics Reports, 2014, vol. 544, no 1,
+p. 1-122.
+
+[5] Mart ́ınez, Johann. Analysing Brain Dynamics by Means of
+Networks. Science.UPM Editorial Press, 2015
+
+[6] G ́omez, S, et al. Diffusi ́on Dynamics on Multiplex Networks.
+Physical Review Letters, 2013, vol 110.
+
