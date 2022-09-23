@@ -73,6 +73,6 @@ The European Physical Journal B, 2015, vol. 88, no 2, p. 48.
 of multilayer networks. Physics Reports, 2014, vol. 544, no 1,
 p. 1-122.
 
-[4] G ́omez, S, et al. Diffusi ́on Dynamics on Multiplex Networks.
+[4] G omez, S, et al. Diffusion Dynamics on Multiplex Networks.
 Physical Review Letters, 2013, vol 110.
 
