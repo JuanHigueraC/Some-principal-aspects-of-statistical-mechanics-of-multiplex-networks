@@ -59,6 +59,18 @@ The Maximum Entropy Principle are a principle of statistical inference, in this 
 
 The application of this principle in multiplex networks are in the pdf of this repository.
 
+## Maximum Entropy Principle in multiplex networks
+
+### Multilinear approach to uncorrelated multiplex networks
+
+### Multilink approach to correlated multiplex networks
+
+## Diffusion in multiplex networks
+
+### Supralaplacian matrix
+
+### Example of application of the spectral analysis of supralaplacian matrix
+
 ## References
 
 [1] BIANCONI, Ginestra. Statistical mechanics of multiplex net-
