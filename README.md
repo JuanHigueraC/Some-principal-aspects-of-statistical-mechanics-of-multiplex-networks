@@ -77,7 +77,7 @@ $$
 
 This equation expresses that the entropy of a multiplex network ensemble is equal to the sum of the entropies of the ensembles for each of the relationships.
 
-For uncorrelated networks, the multilinear approach is sufficient. We will assume that $F_{\mu}(\vec{G})$ is a linear combination of constraints $f_{\mu , \alpha}({G^{\alpha}})$ on the networks $G^{\alpha}$ for each type of relationship, i.e.,
+For uncorrelated networks, the multilinear approach is sufficient. We will assume that $$F_{\mu}(\vec{G})$$ is a linear combination of constraints $$f_{\mu , \alpha}({G^{\alpha}})$$ on the networks $G^{\alpha}$ for each type of relationship, i.e.,
 
 $$
 F_{\mu}(\vec{G}) = \sum_{\alpha = 1}^M f_{\mu , \alpha}(G^{\alpha})
