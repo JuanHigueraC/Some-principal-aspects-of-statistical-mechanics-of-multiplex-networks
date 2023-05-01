@@ -34,7 +34,7 @@ this treatment assume independence of the different types of relationship, for t
 
 To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&alpha; and &beta;.
 
-O^{\alpha ,\beta} = \sum_{i< j} a^{\alpha}_{ij} a^{\beta}_{ij}
+$$ O^{\alpha ,\beta} = \sum_{i< j} a^{\alpha}_{ij} a^{\beta}_{ij} $$ 
 
 The pressence of this overlapping make necessary the construction of a more apropiate formalism. The formalism presented here was developed by Ginestra Bianconi in [1].
 
