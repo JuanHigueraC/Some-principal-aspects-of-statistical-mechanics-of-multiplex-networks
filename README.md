@@ -24,7 +24,7 @@ When we characterize the topology of a network, a point of comparison is necessa
 
 The first aproximation of multiplex networks is given for a multilineal treatment, in this treatment we describe mathematicaly the network using a vector of adyacency matrix, one for each type of relationship
 
-![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/657ba3a3eec1eb8752ca714aaf9cccce428689b2/Images/adyacencia.PNG)
+$$\vec{A} = \left( A^1,.......,A^M  \right)$$
 
 and we can define a vector of degrees, one for each type of relationship
 
