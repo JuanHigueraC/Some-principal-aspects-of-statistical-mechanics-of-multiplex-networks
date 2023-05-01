@@ -28,29 +28,29 @@ $$\vec{A} = \left( A^1,.......,A^M  \right)$$
 
 and we can define a vector of degrees, one for each type of relationship
 
-![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/grado.PNG)
+$$ \vec{k_i} = \left ( k^1_i,. . .k^{\alpha} . . , k^M_i \right)  i = 1,...,N. $$
 
 this treatment assume independence of the different types of relationship, for this reason is unrealistic. 
 
 To measure the correlation between different types of relationship its possible define a overlapping coefficient, this its given by the total number of pairs of nodes that are connected with two type of relations 	&alpha; and &beta;.
 
-![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/0b6681326849f93a8b0105454703b4532ee8c12c/Images/sobrelapamiento.PNG)
+$$ O^{\alpha ,\beta} = \sum_{i< j} a^{\alpha}_{ij} a^{\beta}_{ij}$$
 
 The pressence of this overlapping make necessary the construction of a more apropiate formalism. The formalism presented here was developed by Ginestra Bianconi in [1].
 
 ### Multilink approach
 First we can define a multilink, multilink its a vector that caracterized the relation between two nodes in all of the relationships of the network,that is:
 
-![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multilink.PNG)
+$$\vec{m} = (m_1,m_2,...,m_\alpha,...,m_M)$$
 where M are the number of types of relationships, and the components of the vector take the values 0 or 1 if the two nodes are connected with the specific type of relationship.
 
 This definition allow us to define a multiadyacency matrix
 
-![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multiadyacencia.PNG)
+$$   A^{\vec{M}}_{ij} = \prod_{\alpha = 1}^M  \left( a^{\alpha}_{ij}m_{\alpha} + (1-a^{\alpha}_{ij})(1 - m_{\alpha}) \right)$$
 
 and a multidegree
 
-![image](https://github.com/JuanHigueraC/Some-principal-aspects-of-statistical-mechanics-of-multiplex-networks/blob/a3a7e2d11260476c6480e7d01854844e144b4916/Images/multigrado.PNG)
+$$k^{\vec{m}}_i = \sum_{j = 1}^N A^{\vec{m}}_{ij}$$
 
 This formalism based on multilink permit us applied the statistical mechanics machinery on multiplex networks with correlated types of relationship.
 
