@@ -46,11 +46,11 @@ where M are the number of types of relationships, and the components of the vect
 
 This definition allow us to define a multiadyacency matrix
 
-$$   A^{\vec{M}}_{ij} = \prod_{\alpha = 1}^M  \left( a^{\alpha}_{ij}m_{\alpha} + (1-a^{\alpha}_{ij})(1 - m_{\alpha}) \right)$$
+$$A^{\vec{M}}_{ij} = \prod_{\alpha = 1}^M  \left( a^{\alpha}_{ij}m_{\alpha} + (1-a^{\alpha}_{ij})(1 - m_{\alpha}) \right)$$
 
 and a multidegree
 
-$$k^{\vec{m}}_i = \sum_{j = 1}^N A^{\vec{m}}_{ij}$$
+$$k^{\vec{m}}_i = \sum_{j = 1}^N A^{\vec{m}}_{ij} $$
 
 This formalism based on multilink permit us applied the statistical mechanics machinery on multiplex networks with correlated types of relationship.
 
