@@ -60,9 +60,28 @@ The Maximum Entropy Principle are a principle of statistical inference, in this 
 The application of this principle in multiplex networks are in the pdf of this repository.
 
 ## Maximum Entropy Principle in multiplex networks
+In the study of multiplex networks, the maximum entropy principle is used to predict the probability distribution of a network ensemble, given a set of constraints. The entropy of the ensemble is defined and maximized with respect to the constraints and normalization conditions. By using Lagrange multipliers and imposing specific structural features, the probability distribution of the networks in the ensemble can be derived. This distribution is useful for analyzing and predicting the behavior of multiplex networks under certain conditions.
+
 
 ### Multilinear approach to uncorrelated multiplex networks
 
+In the case of uncorrelated multiplex networks, where there is no correlation between different types of relationships, the probability of having a multiplex network can be expressed as:
+
+$$ P(\vec{G}) = \prod_{\alpha = 1}^M P_{\alpha}(G^{\alpha})$$
+
+By replacing this equation in the entropy equation, we arrive at:
+
+$$
+S = \sum_{\alpha = 1}^M S^{\alpha} = - \sum_{\alpha = 1}^M \sum_{G^{\alpha}} P_{\alpha}(G^{\alpha})ln\left(P_{\alpha}(G^{\alpha})\right)
+$$
+
+This equation expresses that the entropy of a multiplex network ensemble is equal to the sum of the entropies of the ensembles for each of the relationships.
+
+For uncorrelated networks, the multilinear approach is sufficient. We will assume that $F_{\mu}(\vec{G})$ is a linear combination of constraints $f_{\mu , \alpha}({G^{\alpha}})$ on the networks $G^{\alpha}$ for each type of relationship, i.e.,
+
+$$
+F_{\mu}(\vec{G}) = \sum_{\alpha = 1}^M f_{\mu , \alpha}(G^{\alpha})
+$$
 ### Multilink approach to correlated multiplex networks
 
 ## Diffusion in multiplex networks
